@@ -1,4 +1,6 @@
-# Grade Calculator
+<div align="center">
+  <h1 style="text-align: center;">Grade Calculator</h1>
+</div>
 
 This is a grade calculator written in Python. It allows you to input a number of grades and then calculates the average, highest grade, and lowest grade.
 
