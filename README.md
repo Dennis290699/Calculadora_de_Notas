@@ -12,7 +12,7 @@ This is a grade calculator written in Python. It allows you to input a number of
 
 ## Explanation
 
-For a detailed explanation of the code and its implementation, you can refer to the [Code Explanation](##) document.
+For a detailed explanation of the code and its implementation, you can refer to the [Code Explanation](https://github.com/Dennis290699/Calculadora_de_Notas/blob/main/Documents/Explanation_of_code.md) document.
 
 ## Requirements
 

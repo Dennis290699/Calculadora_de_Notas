@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 id="Calculadora">Calculadora de notas</h1>
+  <h1 id="Calculadora">Calculator Grades</h1>
 </div>
 
 The code defines a class called `CalculadoraNotas` (CalculatorGrades), which provides functions to perform calculations related to grades. This class has the following methods:
